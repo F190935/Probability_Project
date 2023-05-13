@@ -3,19 +3,15 @@ title: "The Uncertainty Unicorns"
 image: "Group_Logo.webp"
 links:
   - label: Osama
-    #url: "https://linkedin.com/"
   - label: Abdullah
-    #url: "https://twitter.com/"
   - label: Hamza
-    #url: "https://github.com/"
   - label: Hasnain
-    #url: "mailto:email@email.com"
 output:
   postcards::trestles
 site: distill::distill_website
 ---
  
-## Bio
+## Project Description
 
 Frank Hermosillo studies neural networks and their applications at Google 
 Brain. His research focuses on differentiable network pruning approximation and 
@@ -24,7 +20,7 @@ researchers who study machine learning, computer vision, and cognitive science.
 His work has been featured in WIRED, The Atlantic, Newsweek, and The New York 
 Times Magazine.
 
-## Education
+## Problem Statment
 
 **Massachusetts Institute of Technology** | Cambridge, MA
 
@@ -34,8 +30,10 @@ Ph.D. in Computer Science | September 2009 - May 2014
 
 B.S. in Computer Science | September 2005 - May 2009
 
-## Experience
+## Objective
 
 **Google Brain** | Principal Investigator | January 2018 - Present
 
 **Netflix** | Research Scientist | June 2014 - December 2017
+
+## Data Description

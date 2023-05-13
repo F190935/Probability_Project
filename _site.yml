@@ -9,4 +9,8 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
+    - text: "Descriptive Statistical Measure"
+      href: Descriptive_Statistical_Measure.html
+    - text: "Conclusion"
+      href: conclusion.html
 output: distill::distill_article
